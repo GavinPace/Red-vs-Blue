@@ -1,5 +1,7 @@
 # Red-vs-Blue
 
+Attacking a vulnerable machine and analyzing logs taken during the attack from a defenders position.
+
 ![img](/images/0001.jpg)
 ![img](/images/0002.jpg)
 ![img](/images/0003.jpg)
